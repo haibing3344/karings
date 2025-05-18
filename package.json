@@ -1,0 +1,13 @@
+{
+  "devDependencies": {
+    "@shikijs/vitepress-twoslash": "^3.4.2",
+    "@vuepress/plugin-sitemap": "^2.0.0-rc.3",
+    "sitemap": "^8.0.0",
+    "vitepress": "^1.6.3"
+  },
+  "scripts": {
+    "docs:dev": "vitepress dev",
+    "docs:build": "vitepress build",
+    "docs:preview": "vitepress preview"
+  }
+}
