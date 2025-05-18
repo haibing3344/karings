@@ -3,7 +3,7 @@ import { defineConfig } from 'vitepress'
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
   title: "Karing官网",
-  description: "Karing - 新一代网络代理工具，界面简洁清晰，功能强大，全平台支持",
+  description: "Karing官网 - 新一代网络代理工具，界面简洁清晰，功能强大，全平台支持，Karing客户端下载地址，Karing使用教程",
   lang: 'zh-CN',
   cleanUrls: false, // 禁用干净URL，保留.html后缀
   head: [
@@ -14,11 +14,11 @@ export default defineConfig({
     ['meta', { property: 'og:url', content: 'https://karing.uk' }],
     ['link', { rel: 'canonical', href: 'https://karing.uk' }]
   ],
-  lastUpdated: true,
+  lastUpdated: false,
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     logo: '/logo.png',
-    siteTitle: 'Karing官网',
+    siteTitle: 'Karing',
     nav: [
       { text: '介绍', link: '/' },
       { text: '下载', link: '/download.md' },
@@ -41,7 +41,7 @@ export default defineConfig({
         {
           text: '常见问题',
           items: [
-            { text: 'Karing App', link: '/faq.html#karing-app' },
+            { text: 'Karing App常见问题', link: '/faq.html#karing-app' },
             { text: '华为鸿蒙系统如何安装？', link: '/harmonyos.md' }
           ]
         }
@@ -68,8 +68,8 @@ export default defineConfig({
     },
 
     footer: {
-      message: '基于 MIT 许可发布',
-      copyright: `Copyright © ${new Date().getFullYear()} Karing Team`
+      message: 'Karing官网，Karing客户端下载，Karing机场推荐，Karing使用教程',
+      copyright: `Copyright © ${new Date().getFullYear()} <a href="/"> Karing 官网</a>`
     },
 
     socialLinks: [

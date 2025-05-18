@@ -63,9 +63,7 @@ Karing是新一代网络代理工具，基于 sing-box 开发的多平台客户�
 ## 友情链接
 
 - [一元机场](https://1yuan.uk/)
-
-
-## 版权声明
-
-© 2025 Karing Team. 保留所有权利。
-
+- [Clash for Windows](https://clashcn.org)
+- [Clash Verge Rev](https://clash-verge-rev.org)
+- [Hiddify](https://hiddifycn.org)
+- [Mihomo Party](https://mihomo.bid)
