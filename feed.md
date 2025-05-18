@@ -279,6 +279,29 @@ description: 为了帮助用户获得更好的网络体验，我们精选了一�
 
 
 <div class="pricing-card">
+  <div class="pricing-title">狗狗加速</div>
+  <div class="pricing-price">¥15.80 <span class="pricing-unit">每月</span></div>
+  <a href="https://down.dginv.click/#/register?code=El5yzgZo" target="_blank" class="buy-button">
+    <i class="icon-cart"></i> 立即订阅
+  </a>
+    
+    套餐特点
+
+- 流量：160 GB
+- 速度：150 Mbps
+- 设备数：无限制
+
+使用说明
+
+1. ✅半年付9.5折，年付9折
+2. ✅集群负载均衡
+3. ✅解锁流媒体及ChatGPT
+4. ✅不限设备数，全平台通用
+5. ✅当月流量用完请买流量重制套餐重置使用流量
+
+</div>
+
+<div class="pricing-card">
   <div class="pricing-title">SSRDog</div>
   <div class="pricing-price">¥25.00 <span class="pricing-unit">每月</span></div>
   <a href="https://st1.hosbb.com/#/register?code=WM55GuJt" target="_blank" class="buy-button">
