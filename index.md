@@ -39,6 +39,7 @@ features:
     details: 支持Windows、macOS以及Linux等所有主要桌面操作系统，能广泛满足不同用户的需求
 ---
 
+------
 # Karing介绍
 
 Karing是新一代网络代理工具，基于 sing-box 开发的多平台客户端，界面简洁清晰，功能强大。现已支持 Windows、Mac、Android、Apple TV和 iOS ，目前已上架 App Store，免费下载。对于Linux 提供支持，也在开发者的计划之中。
