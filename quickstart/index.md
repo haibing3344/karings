@@ -18,7 +18,7 @@ description: Karing快速入门教程, 帮助您快速上手使用Karing。这�
 - 增加新手模式 配置更简单.
 
 ### 界面预览
-![软件界面](/assets/qs-1.png#center)
+![软件界面](/assets/qs-1.png#center "Karing软件界面")
 
 ## 一、 下载
 ### iOS(iphone/ipad)/Mac用户
@@ -63,11 +63,11 @@ description: Karing快速入门教程, 帮助您快速上手使用Karing。这�
 ## 二、快速使用/quickstart
 1. 点击APP左上角设置按钮 -> 进入 `添加配置`
     - 打开 `添加配置链接`(也可以通过导入或者扫描添加)
-      - ![设置](/assets/qs-2.png)
+      - ![设置](/assets/qs-2.png "设置")
     - 将 Clash/V2ray/SS 等配置链接或者配置内容粘贴到输入框
         - 如果没有配置,可以通过 [新用户福利](/newuser.md) 申请
     - 点击右上角添加按钮
-      - ![添加配置](/assets/qs-3.png)
+      - ![添加配置](/assets/qs-3.png "添加配置")
 
 
 2. 返回到主屏
@@ -79,7 +79,7 @@ description: Karing快速入门教程, 帮助您快速上手使用Karing。这�
 ### 如何选择更快的服务器
 - 点击主屏下方的服务器名称后，打开 '选择服务器'
 - 点击 '延时检测' 按钮
-  - ![节点列表](/assets/qs-5.png)
+  - ![节点列表](/assets/qs-5.png "节点列表")
 - 稍等一会后, 每个服务器后面会展示对应服务器延时
     - 延时数值越低越好
     - 三角提示的表示有错误,服务器可能无法使用,点击后可以查看具体错误信息
