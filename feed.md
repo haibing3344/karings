@@ -156,7 +156,7 @@ description: 为了帮助用户获得更好的网络体验，我们精选了一�
 <div class="pricing-card">
   <div class="pricing-title">TNTCloud</div>
   <div class="pricing-price">¥30.00 <span class="pricing-unit" style="color: red;">每季</span></div>
-  <a href="https://w05.tntyunb01.cc/#/register?code=GtjJVgml" target="_blank" class="buy-button">
+  <a href="https://haibing822.tntvipaff.cc/#/register?code=GtjJVgml" target="_blank" class="buy-button">
     <i class="icon-cart"></i> 立即订阅
   </a>
     
