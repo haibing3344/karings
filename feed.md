@@ -444,6 +444,15 @@ description: 为了帮助用户获得更好的网络体验，我们精选了一�
 - [Karing使用教程](/quickstart/)
 - [常见问题解答](/faq.md)
 
+::: tip 🎉 节点推荐
+- 🚀 [Cyberguard: 解锁Netflix/Hbo/Disney+/Dazn等流媒体,18.00元/月](https://www.cyberguard.best/#/register?code=XsreC0T5)
+- 🚀 [优信云：IEPL/IPLC 高速专线，￥15.00/月](https://www.优信云.com/#/register?code=JRtE5uIV)<br>
+- 🚀 [尔湾云：最大峰值1000Mbps，全流媒体及ChatGPT解锁！最低12元/月](https://erwan6.net/auth/register?code=BoObCd)<br>
+- 🚀 [TNTCloud：新开机场，季付30，每月低至￥10.00/月](https://haibing822.tntvipaff.cc/#/register?code=GtjJVgml)<br>
+- 🚀 [魔戒：不限时，不限制使用人数，直至套餐流量用完，低至￥14.9/130G流量](https://mojie.app/#/register?code=sSdtPtLo)<br>
+- 🚀 [宝可梦星云：新用户首单：9折优惠码：9999，低至5.9/月 ](https://love.52pokemon.cc/register?code=56ERkkxp)
+- 🚀 [NanoCloud: 绑定TG机器人每天领取免费流量，月付最低1元/月](https://edu.uodoo.bid/auth/register?code=JMiOQDHf)
+:::
 ---
 
 **免责声明**：本页面推荐的服务提供商仅供参考，Karing团队不对这些服务的质量和可用性做任何保证。用户应自行判断并选择适合自己的服务。

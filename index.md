@@ -69,3 +69,4 @@ Karing是新一代网络代理工具，基于 sing-box 开发的多平台客户�
 - [Hiddify](https://hiddifycn.org) - Hiddify 是一款基于 Sing-box 的现代化、跨平台代理客户端。
 - [Mihomo Party](https://mihomo.bid) - 基于Mihomo(Clash Meta)核心的新一代网络代理工具
 - [Shadowrocket](https://shadowrocket.uk) - iOS 专业网络工具
+- [Karing](https://karing.uk) - 新一代网络代理工具
