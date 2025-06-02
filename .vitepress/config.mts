@@ -12,7 +12,12 @@ export default defineConfig({
     ['meta', { property: 'og:title', content: 'Karing官网' }],
     ['meta', { property: 'og:description', content: 'Karing - 新一代网络代理工具，界面简洁清晰，功能强大，全平台支持' }],
     ['meta', { property: 'og:url', content: 'https://karing.uk' }],
-    ['link', { rel: 'canonical', href: 'https://karing.uk' }]
+    ['link', { rel: 'canonical', href: 'https://karing.uk' }],
+    ['script', { 
+      async: true, 
+      src: 'https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2394457707130437',
+      crossorigin: 'anonymous'
+    }]
   ],
   lastUpdated: false,
   themeConfig: {
