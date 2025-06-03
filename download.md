@@ -12,13 +12,11 @@ description: 下载Karing最新版本，支持Windows、macOS、iOS和Android等
     
     -   [https://free.iosapp.icu](https://free.iosapp.icu/)
     -   [https://idfree.top](https://idfree.top/)
-    -   [https://idshare.me](https://idshare.me/)
 -   如共享账号无法使用，建议自行购买外区带有 Shadowrocket 的账号，**以后可以永久使用**。
     
     推荐商家：
     
     -   [水果商店](https://applego.win)
-    -   [小火箭吧](https://xiaohuojian8.com/aff/5305.html)
 - 注意: 应用市场版 和 TestFlight版 无法同时安装:安装应用市场版本会覆盖TestFlight版,同理安装TestFlight版会覆盖应用市场版,请您视具体情况选择要安装的版本
 
 ## Android/Harmony
