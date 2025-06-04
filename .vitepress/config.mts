@@ -27,18 +27,18 @@ export default defineConfig({
     nav: [
       { text: '介绍', link: '/' },
       { text: '下载', link: '/download.md' },
-      { text: '教程', link: '/quickstart/' },
+      { text: '教程', link: '/quickstart/index.md' },
       { text: '🎉机场推荐', link: 'feed.md' },
       { text: '常见问题', link: '/faq.md' }
     ],
 
     sidebar: {
-      '/quickstart/': [
+      '/quickstart/index.md': [
         {
           text: '使用教程',
           items: [
             { text: '快速入门', link: '/quickstart/' },
-            { text: '进阶教程', link: '/quickstart/advanced.html' }
+            { text: '进阶教程', link: '/quickstart/advanced.md' }
           ]
         }
       ],

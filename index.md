@@ -22,7 +22,7 @@ hero:
       link: /download.md
     - theme: alt
       text: 使用教程
-      link: /quickstart/
+      link: /quickstart/index.md
     - theme: alt
       text: 🎉机场推荐
       link: /feed.md  
@@ -53,7 +53,7 @@ Karing是新一代网络代理工具，基于 sing-box 开发的多平台客户�
 
 ## 使用教程
 
-- [快速入门教程](/quickstart/)
+- [快速入门教程](/quickstart/index.md)
 - [进阶使用指南](/quickstart/advanced.md)
 - [常见问题解答](/faq.md)
 
