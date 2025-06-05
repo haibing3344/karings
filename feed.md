@@ -21,6 +21,7 @@ description: 为了帮助用户获得更好的网络体验，我们精选了一�
 4. **价格**：价格是否合理，是否符合预算
 5. **客户服务**：是否有及时的客户服务支持
 
+
 ## 流量估算参考表
 
 | 使用场景 | 预估每小时流量消耗 | 建议月流量 |
@@ -30,6 +31,7 @@ description: 为了帮助用户获得更好的网络体验，我们精选了一�
 | 高清流媒体观看 | 1-3 GB | 200-350 GB |
 | 大文件下载、云备份 | 根据文件大小 | 350-600 GB |
 | 4K流媒体、频繁下载 | 5-7 GB | 600+ GB |
+
 
 ## 靠谱机场推荐：
 
@@ -131,6 +133,28 @@ description: 为了帮助用户获得更好的网络体验，我们精选了一�
 6. 在线设备最多5人
 </div>
 
+<div class="pricing-card">
+  <div class="pricing-title"><span style="color: red;">XXYUN</span></div>
+  <div class="pricing-price">¥8.88 <span class="pricing-unit" >每月</span></div>
+  <a href="https://xxyun.de/4yEURhWn.html" target="_blank" class="buy-button">
+    <i class="icon-cart"></i> 立即订阅
+  </a>
+    
+    套餐特点
+
+- 流量：100 GB
+- 速度：800Mbps
+- 设备数：不限制
+
+使用说明
+
+1. 流量: 100GB 丨每月订单日重置
+2. BGP＋中转线路丨800M带宽保障
+3. 不限设备使用
+4. 7x24在线客户服务支持
+5. 解锁: Netflix, Disney+, ChatGPT 等
+
+</div>
 
 <div class="pricing-card">
   <div class="pricing-title"><span style="color: red;">老百姓机场</span></div>
@@ -277,6 +301,28 @@ description: 为了帮助用户获得更好的网络体验，我们精选了一�
 7. 💛流量重置：8元
 </div>
 
+<div class="pricing-card">
+  <div class="pricing-title">FlyBit</div>
+  <div class="pricing-price">¥12.00 <span class="pricing-unit">每月</span></div>
+  <a href="https://flybit.best/#/register?code=o7YHNoqs" target="_blank" class="buy-button">
+    <i class="icon-cart"></i> 立即订阅
+  </a>
+    
+    套餐特点
+
+- 流量：100 GB
+- 速度： 不限速
+- 设备数：无限制
+
+使用说明
+
+1. ✅️ 月付12 | 季付33 | 半年63 | 年付120
+2. ✅️ 流量：100GB/月
+3. ✅️ 设备：不限制，支持家庭成员共享
+4. ✅️ 媒体：解锁流媒体,ChatGPT
+5. ✅️ 传输：SS协议 | Secure隧道
+6. 🚫 仅限个人使用暂不支持退款
+</div>
 
 <div class="pricing-card">
   <div class="pricing-title">狗狗加速</div>
@@ -293,13 +339,15 @@ description: 为了帮助用户获得更好的网络体验，我们精选了一�
 
 使用说明
 
-1. ✅半年付9.5折，年付9折
-2. ✅集群负载均衡
-3. ✅解锁流媒体及ChatGPT
-4. ✅不限设备数，全平台通用
-5. ✅当月流量用完请买流量重制套餐重置使用流量
+1. ✅3日1G试用满意购买
+2. ✅半年付9.5折，年付9折
+3. ✅集群负载均衡
+4. ✅解锁流媒体及ChatGPT
+5. ✅不限设备数，全平台通用
+6. ✅当月流量用完请买流量重制套餐重置使用流量
 
 </div>
+
 
 <div class="pricing-card">
   <div class="pricing-title">SSRDog</div>
@@ -323,6 +371,9 @@ description: 为了帮助用户获得更好的网络体验，我们精选了一�
 5. **<span style="color: red;">💛优惠：年付17元/月</span>**
 6. **<span style="color: red;">💛24小時3G流量試用丨滿意後購買</span>**
 </div>
+
+
+
 
 <div class="pricing-card">
   <div class="pricing-title">CHCC</div>
@@ -413,12 +464,13 @@ description: 为了帮助用户获得更好的网络体验，我们精选了一�
 1. 🚀 优质机场领先者，畅享极速网络
 2. 🍬 每月送你1T甜甜的流量
 3. 🖥 集群部署，保障稳定与高性能
-4. 📱 支持多设备连接，无需限制
+4. v📱 支持多设备连接，无需限制
 5. ⚡️ 高达1Gbps的极速体验
 6. 🔓 解锁全球流媒体，畅享无阻
 7. 适合追剧、下载等对流量需求较大的同学使用
 </div>
 </div>
+
 
 ## 如何使用机场服务
 
