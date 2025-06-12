@@ -12,7 +12,7 @@ description: 下载Karing最新版本，支持Windows、macOS、iOS和Android等
     
     -   [https://idshare001.me/applego.html](https://idshare001.me/applego.html)
     -   [https://id001.me/applego.html](https://id001.me/applego.html)
--   如共享账号无法使用，建议自行购买外区带有 Loon 的账号，**以后可以永久使用**。
+-   如共享账号无法使用，建议自行购买外区Apple ID的账号，**以后可以永久使用**。
 
     推荐商家：
     
