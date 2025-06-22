@@ -17,13 +17,13 @@ hero:
     src: /logo.png
     alt: Karing
   actions:
-    - theme: brand
+    - theme: alt
       text: 立即下载
       link: /download.md
     - theme: alt
       text: 使用教程
       link: /quickstart/index.md
-    - theme: alt
+    - theme: brand
       text: 🎉机场推荐
       link: /feed.md  
 
