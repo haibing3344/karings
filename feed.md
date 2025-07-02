@@ -147,7 +147,7 @@ description: 为了帮助用户获得更好的网络体验，我们精选了一�
   </a>
     
     套餐特点
-- **<span style="color: red;">618 85折优惠码：xxyun618</span>**
+- **<span style="color: red;">新用户85折优惠码：xxyun85</span>**
 - 流量：100 GB
 - 速度：800Mbps
 - 设备数：不限制
@@ -310,6 +310,29 @@ description: 为了帮助用户获得更好的网络体验，我们精选了一�
 </div>
 
 <div class="pricing-card">
+  <div class="pricing-title">扬帆云</div>
+  <div class="pricing-price">¥15.99 <span class="pricing-unit">每月</span></div>
+  <a href="https://yftg1.net/register?code=0WEO6ulk" target="_blank" class="buy-button">
+    <i class="icon-cart"></i> 立即订阅
+  </a>
+    
+    套餐特点
+- **<span style="color: red;">💛限时年付7折优惠</span>**
+- 流量：100 GB
+- 速度：200M
+- 设备数：2
+
+使用说明
+
+1. 套餐有效期 30 天
+2. 流量每月购买日重置
+3. 最多支持1个用户同时在线
+4. 工单客服支持
+5. **<span style="color: red;">👍全球接入节点</span>**
+6. **<span style="color: red;">👍解锁流媒体</span>**
+</div>
+
+<div class="pricing-card">
   <div class="pricing-title">Taishan</div>
   <div class="pricing-price">¥10.00 <span class="pricing-unit">每月</span></div>
   <a href="https://jp.taishan.pro/register?code=45O5EGR9" target="_blank" class="buy-button">
@@ -385,7 +408,7 @@ description: 为了帮助用户获得更好的网络体验，我们精选了一�
 <div class="pricing-card">
   <div class="pricing-title">银河云</div>
   <div class="pricing-price">¥8.00 <span class="pricing-unit">每月/<b>年付98元</b></span></div>
-  <a href="https://inv02.galaxyaff.cc/register?aff=la8LavLb" target="_blank" class="buy-button">
+  <a href="https://haibing822.galaxyvipaff01.cc/register?aff=la8LavLb" target="_blank" class="buy-button">
     <i class="icon-cart"></i> 立即订阅
   </a>
     
@@ -458,6 +481,29 @@ description: 为了帮助用户获得更好的网络体验，我们精选了一�
 
 ## 大流量机场推荐：
 <div class="pricing-container">
+
+<div class="pricing-card">
+  <div class="pricing-title">网际快车</div>
+  <div class="pricing-price">¥6.80 <span class="pricing-unit" style="color: red;">不限时</span></div>
+  <a href="https://wjkc66.vip?c=APIXRJ" target="_blank" class="buy-button">
+    <i class="icon-cart"></i> 立即订阅
+  </a>
+    
+    套餐特点
+
+- 流量：20 GB
+- 速度：不限速
+- 设备数：无限制
+
+使用说明
+
+1. 流量永不过期
+2. 不限设备数量
+3. 4K视频秒开
+4. 回国家宽，新疆可用，游戏专用节点
+5. **<span style="color: red;">💛月付24元，1800G/每月</span>**
+</div>
+
  <div class="pricing-card">
   <div class="pricing-title">魔戒</div>
   <div class="pricing-price">¥14.90 <span class="pricing-unit" style="color: red;">不限时</span></div>
@@ -483,7 +529,7 @@ description: 为了帮助用户获得更好的网络体验，我们精选了一�
 <div class="pricing-card">
   <div class="pricing-title">旗舰款套餐-大流量</div>
   <div class="pricing-price">¥9.90 <span class="pricing-unit">每月</span></div>
-  <a href="https://my.cloudlion.me/#/register?code=rLyT9shh" target="_blank" class="buy-button">
+  <a href="https://my.cloudlion.me/#/register?code=hUuk650e" target="_blank" class="buy-button">
     <i class="icon-cart"></i> 立即订阅
   </a>
     
@@ -505,25 +551,7 @@ description: 为了帮助用户获得更好的网络体验，我们精选了一�
 </div>
 
 <div class="pricing-card">
-  <div class="pricing-title">网际快车</div>
-  <div class="pricing-price">¥6.80 <span class="pricing-unit" style="color: red;">不限时</span></div>
-  <a href="https://wjkc66.vip?c=APIXRJ" target="_blank" class="buy-button">
-    <i class="icon-cart"></i> 立即订阅
-  </a>
-    
-    套餐特点
 
-- 流量：20 GB
-- 速度：不限速
-- 设备数：无限制
-
-使用说明
-
-1. 流量永不过期
-2. 不限设备数量
-3. 4K视频秒开
-4. 回国家宽，新疆可用，游戏专用节点
-5. **<span style="color: red;">💛月付24元，1800G/每月</span>**
 </div>
 </div>
 
@@ -546,6 +574,7 @@ description: 为了帮助用户获得更好的网络体验，我们精选了一�
 - 🫂 Telegram:[@jichang360](https://t.me/jichang360)
 
 :::
+
 
 
 ## 如何使用机场服务
