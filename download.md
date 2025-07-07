@@ -8,6 +8,7 @@ description: 下载Karing最新版本，支持Windows、macOS、iOS和Android等
 ## iOS(iPhone/iPad)/MacOS/TvOS(Apple TV)
 - 应用市场[稳定版] [AppStore](https://apps.apple.com/us/app/karing/id6472431552)
 - TestFlight[Beta测试版]  新功能尝鲜 [TestFlight](https://testflight.apple.com/join/RLU59OsJ)
+::: tip
 -   需要使用境外 Apple ID 才能下载。以下是公益共享 Apple ID 网站推荐：
     
     -   [https://idshare001.me/applego.html](https://idshare001.me/applego.html)
@@ -17,8 +18,10 @@ description: 下载Karing最新版本，支持Windows、macOS、iOS和Android等
     推荐商家：
     
     -   [水果商店](https://applego.win)
+:::
+::: warning
 - 注意: 应用市场版 和 TestFlight版 无法同时安装:安装应用市场版本会覆盖TestFlight版,同理安装TestFlight版会覆盖应用市场版,请您视具体情况选择要安装的版本
-
+:::
 ## Android/Harmony
 - [GitHub Release page](https://github.com/KaringX/karing/releases/latest)
   - Android 建议下载安装包: 文件名规则 karing_xxx_android_arm.apk (xxx为版本号)
