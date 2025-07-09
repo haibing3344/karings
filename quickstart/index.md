@@ -27,7 +27,7 @@ description: Karing快速入门教程, 帮助您快速上手使用Karing。这�
 - TestFlight
     - https://testflight.apple.com/join/RLU59OsJ
 - 注意: 需要非中国大陆AppStore账号
-    - 不会注册?请参考 [水果商店](https://applego.win)
+    - 不会注册?请参考 [水果商店](https://applego.idbb.me)
 
 ### Windows/Android/Harmony用户
 - 下载最新版安装包

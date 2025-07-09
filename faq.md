@@ -10,7 +10,7 @@ description: Karing常见问题解答，支持哪些平台- 已支持:IOS, MacOS
 ### Karing 免费吗？多少钱
 - 完全免费
 -  苹果用户:只要是非中国大陆地区的苹果账号都能下载
-- 苹果用户:如果您不方便直接注册，推荐 [水果商店](https://applego.win)
+- 苹果用户:如果您不方便直接注册，推荐 [水果商店](https://applego.idbb.me)购买。
 - Windows版本请到[Github](https://github.com/KaringX/karing/releases/latest)下载(可能需要开代理才能下载)
 
 ### 支持哪些平台
