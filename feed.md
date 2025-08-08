@@ -306,8 +306,7 @@ description: 为了帮助用户获得更好的网络体验，我们精选了一�
 7. ✓ 如发现恶意公开订阅立即封号
 8. <span style="color: red;">❌新疆无法使用！请勿下单！</span>
 </div>
-<div>
-</div>
+
 </div>
 
 ## 优质靠谱机场推荐：
@@ -661,6 +660,30 @@ description: 为了帮助用户获得更好的网络体验，我们精选了一�
 3. ✅不限制使用人数
 4. ✅不限制到期时间
 5. ✅不限制网络速度
+</div>
+
+ <div class="pricing-card">
+  <div class="pricing-title">良心云</div>
+  <div class="pricing-price">¥2.00 <span class="pricing-unit" style="color: red;">每月</span></div>
+  <a href="https://a.suola.link/liangxinyun" target="_blank" class="buy-button">
+    <i class="icon-cart"></i> 立即订阅
+  </a>
+    
+    套餐特点
+
+- 流量：100 G
+- 速度：不限速
+- 设备数：无限制
+
+使用说明
+
+1. **<span style="color: red;">👌 支持新疆，河南，福建，用户使用，毫无影响</span>**
+2. 🌍 全球覆盖，所有节点1.0倍率，无高倍线路
+3. 📱 支持同时在线20台设备使用
+4. ⚡️ 高达3Gbps带宽，晚高峰观看8K 60fps不卡顿
+5. 🎬 流媒体全面解锁
+6. 🫷 无限制使用行为，无存储节点日志，使用更安心
+7. 🔒 军工级TLS1.3加密，保护你的隐私安全
 </div>
 
 </div>
