@@ -11,8 +11,8 @@ export default defineConfig({
     ['meta', { name: 'author', content: 'Karing Team' }],
     ['meta', { property: 'og:title', content: 'Karing官网' }],
     ['meta', { property: 'og:description', content: 'Karing - 新一代网络代理工具，界面简洁清晰，功能强大，全平台支持' }],
-    ['meta', { property: 'og:url', content: 'https://karing.uk' }],
-    ['link', { rel: 'canonical', href: 'https://karing.uk' }],
+    ['meta', { property: 'og:url', content: 'https://karings.uk' }],
+    ['link', { rel: 'canonical', href: 'https://karings.uk' }],
     ['script', { 
       async: true, 
       src: 'https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2394457707130437',
@@ -84,7 +84,7 @@ export default defineConfig({
   
   // 站点地图
   sitemap: {
-    hostname: 'https://karing.uk'
+    hostname: 'https://karings.uk'
   },
   
   // 语法高亮配置
