@@ -71,9 +71,10 @@ Karing是新一代网络代理工具，基于 sing-box 开发的多平台客户�
 - [宝可梦机场](https://baokemeng.bid) - 高速梯子vpn,每月领兑换码可以免费使用
 - [Clash for Windows](https://clashcn.org) - 一款基于 Clash 内核的 Windows 平台代理工具
 - [Hiddify](https://hiddifycn.org) - Hiddify 是一款基于 Sing-box 的现代化、跨平台代理客户端
-- [Mihomo Party](https://mihomo.bid) - 基于Mihomo(Clash Meta)核心的新一代网络代理工具
-- [Shadowrocket(小火箭)](https://xiaohuojian.uk) - iOS 专业网络工具
+- [Mihomo Party](https://mihomoparty.bid) - 基于Mihomo(Clash Meta)核心的新一代网络代理工具
+- [Shadowrocket(小火箭)](https://shadowrocket.uk) - iOS 专业网络工具
 - [Karing](https://karings.org) - 新一代网络代理工具,免费
 - [Stash](https://stashapp.uk) - 简单且强大的网络工具
 - [Loon](https://nsloon.uk) - iOS平台最强大的网络代理工具
 - [一元机场](https://yijc.org) - 提供高性价比的科学上网服务
+- [ClashMetaForAndroid](https://clashmeta.bid) - 基于ClashMeta的Android代理客户端
