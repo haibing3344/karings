@@ -126,7 +126,7 @@ Karing支持根据网络环境自动切换配置：
 
 ## 更多资源
 
-- [Karing官方文档](https://karing.app)
+- [Karing官方文档](https://karings.org)
 - [Karing GitHub仓库](https://github.com/KaringX/karing)
 - [常见问题解答](/faq.md)
 
