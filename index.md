@@ -79,3 +79,4 @@ Karing是新一代网络代理工具，基于 sing-box 开发的多平台客户�
 - [Loon](https://nsloon.uk) - iOS平台最强大的网络代理工具
 - [一分机场](https://1fen.bid) - 提供高性价比的科学上网服务
 - [ClashMetaForAndroid](https://clashmeta.bid) - 基于ClashMeta的Android代理客户端
+- [Flclash](https://flclash.men) - 基于ClashMeta内核的多平台代理客户端软件
