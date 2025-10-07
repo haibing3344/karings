@@ -46,7 +46,7 @@ description: 为了帮助用户获得更好的网络体验，我们精选了一�
 <div class="pricing-card">
   <div class="pricing-title">Cyberguard</div>
   <div class="pricing-price">18.00 <span class="pricing-unit">每月</span></div>
-  <a href="https://www.cyberguard.best/#/register?code=XsreC0T5" target="_blank" class="buy-button">
+  <a href="https://www.cyberguard.best/#/register?code=XsreC0T5" target="_blank" rel="nofollow" class="buy-button">
     <i class="icon-cart"></i> 立即订阅
   </a>
     
@@ -70,7 +70,7 @@ description: 为了帮助用户获得更好的网络体验，我们精选了一�
 <div class="pricing-card">
   <div class="pricing-title">优信云<span style="color: red;"><b>👍推荐</b></span></div>
   <div class="pricing-price">¥15.00 <span class="pricing-unit">每月</span></div>
-  <a href="https://a.suola.link/youxinyun" target="_blank" class="buy-button">
+  <a href="https://a.suola.link/youxinyun" target="_blank" rel="nofollow" class="buy-button">
     <i class="icon-cart"></i> 立即订阅
   </a>
     
@@ -96,7 +96,7 @@ description: 为了帮助用户获得更好的网络体验，我们精选了一�
 <div class="pricing-card">
   <div class="pricing-title">NanoCloud</div>
   <div class="pricing-price">¥10.00 <span class="pricing-unit">每月</span></div>
-  <a href="https://edu.uodoo.bid/auth/register?code=JMiOQDHf" target="_blank" class="buy-button">
+  <a href="https://edu.uodoo.bid/auth/register?code=JMiOQDHf" target="_blank" rel="nofollow" class="buy-button">
     <i class="icon-cart"></i> 立即订阅
   </a>
     
@@ -120,7 +120,7 @@ description: 为了帮助用户获得更好的网络体验，我们精选了一�
 <div class="pricing-card">
   <div class="pricing-title">宝可梦星云</div>
   <div class="pricing-price">¥5.90 <span class="pricing-unit">每月</span></div>
-  <a href="https://a.suola.link/pokemon" target="_blank" class="buy-button">
+  <a href="https://a.suola.link/pokemon" target="_blank" rel="nofollow" class="buy-button">
     <i class="icon-cart"></i> 立即订阅
   </a>
     
@@ -143,7 +143,7 @@ description: 为了帮助用户获得更好的网络体验，我们精选了一�
 <div class="pricing-card">
   <div class="pricing-title"><span style="color: red;">XXYUN</span></div>
   <div class="pricing-price">¥8.88 <span class="pricing-unit" >每月</span></div>
-  <a href="https://xxyun.de/JAKFEwKc.html" target="_blank" class="buy-button">
+  <a href="https://xxyun.de/JAKFEwKc.html" target="_blank" rel="nofollow" class="buy-button">
     <i class="icon-cart"></i> 立即订阅
   </a>
     
@@ -166,7 +166,7 @@ description: 为了帮助用户获得更好的网络体验，我们精选了一�
 <div class="pricing-card">
   <div class="pricing-title"><span style="color: red;">老百姓机场</span></div>
   <div class="pricing-price">¥6.00 <span class="pricing-unit" >每月</span></div>
-  <a href="https://xn--mes53dm4ex3lhhtdb891k3sd.com/#/register?code=Onxdw3aY" target="_blank" class="buy-button">
+  <a href="https://xn--mes53dm4ex3lhhtdb891k3sd.com/#/register?code=Onxdw3aY" target="_blank" rel="nofollow" class="buy-button">
     <i class="icon-cart"></i> 立即订阅
   </a>
     
@@ -187,7 +187,7 @@ description: 为了帮助用户获得更好的网络体验，我们精选了一�
 <div class="pricing-card">
   <div class="pricing-title">TNTCloud</div>
   <div class="pricing-price">¥30.00 <span class="pricing-unit" style="color: red;">每季</span></div>
-  <a href="https://haibing822.tntvipaff.cc/#/register?code=GtjJVgml" target="_blank" class="buy-button">
+  <a href="https://haibing822.tntvipaff.cc/#/register?code=GtjJVgml" target="_blank" rel="nofollow" class="buy-button">
     <i class="icon-cart"></i> 立即订阅
   </a>
     
@@ -211,7 +211,7 @@ description: 为了帮助用户获得更好的网络体验，我们精选了一�
 <div class="pricing-card">
   <div class="pricing-title">好好云</div>
   <div class="pricing-price">¥10.00 <span class="pricing-unit">每月</span></div>
-  <a href="https://52hhy.com/register?code=EAkkeWkx" target="_blank" class="buy-button">
+  <a href="https://52hhy.com/register?code=EAkkeWkx" target="_blank" rel="nofollow" class="buy-button">
     <i class="icon-cart"></i> 立即订阅
   </a>
     
@@ -237,7 +237,7 @@ description: 为了帮助用户获得更好的网络体验，我们精选了一�
 <div class="pricing-card">
   <div class="pricing-title">鱼云</div>
   <div class="pricing-price">¥9.00 <span class="pricing-unit">每月</span></div>
-  <a href="https://cloudfisher.one/web/#/login?code=Xrd2NWzo" target="_blank" class="buy-button">
+  <a href="https://cloudfisher.one/web/#/login?code=Xrd2NWzo" target="_blank" rel="nofollow" class="buy-button">
     <i class="icon-cart"></i> 立即订阅
   </a>
     
@@ -262,7 +262,7 @@ description: 为了帮助用户获得更好的网络体验，我们精选了一�
 <div class="pricing-card">
   <div class="pricing-title">流量光机场*<span style="color: red;">注册需翻墙</span>*</div>
   <div class="pricing-price">4.90 <span class="pricing-unit">每月</span></div>
-  <a href="https://llgjc1.com/#/register?code=X4BNUzBu" target="_blank" class="buy-button">
+  <a href="https://llgjc1.com/#/register?code=X4BNUzBu" target="_blank" rel="nofollow" class="buy-button">
     <i class="icon-cart"></i> 立即订阅
   </a>
     
@@ -284,7 +284,7 @@ description: 为了帮助用户获得更好的网络体验，我们精选了一�
 <div class="pricing-card">
   <div class="pricing-title">淘气兔</div>
   <div class="pricing-price">7.80 <span class="pricing-unit">每月</span></div>
-  <a href="https://a.suola.link/taoqitu" target="_blank" class="buy-button">
+  <a href="https://a.suola.link/taoqitu" target="_blank" rel="nofollow" class="buy-button">
     <i class="icon-cart"></i> 立即订阅
   </a>
     
@@ -315,7 +315,7 @@ description: 为了帮助用户获得更好的网络体验，我们精选了一�
 <div class="pricing-card">
   <div class="pricing-title">闪狐云</div>
   <div class="pricing-price">¥20.00 <span class="pricing-unit">每月</span></div>
-  <a href="https://inv02.ffaff.cc/register?aff=WQApz2pv" target="_blank" class="buy-button">
+  <a href="https://inv02.ffaff.cc/register?aff=WQApz2pv" target="_blank" rel="nofollow" class="buy-button">
     <i class="icon-cart"></i> 立即订阅
   </a>
     
@@ -339,7 +339,7 @@ description: 为了帮助用户获得更好的网络体验，我们精选了一�
 <div class="pricing-card">
   <div class="pricing-title">疾风云</div>
   <div class="pricing-price">¥13.99 <span class="pricing-unit">每月</span></div>
-  <a href="https://homes.tr25.cn/?code=ReCm" target="_blank" class="buy-button">
+  <a href="https://homes.tr25.cn/?code=ReCm" target="_blank" rel="nofollow" class="buy-button">
     <i class="icon-cart"></i> 立即订阅
   </a>
     
@@ -365,7 +365,7 @@ description: 为了帮助用户获得更好的网络体验，我们精选了一�
 <div class="pricing-card">
   <div class="pricing-title">尔湾云</div>
   <div class="pricing-price">¥13.99 <span class="pricing-unit">每月</span></div>
-  <a href="https://erwan6.net/auth/register?code=BoObCd" target="_blank" class="buy-button">
+  <a href="https://erwan6.net/auth/register?code=BoObCd" target="_blank" rel="nofollow" class="buy-button">
     <i class="icon-cart"></i> 立即订阅
   </a>
     
@@ -391,7 +391,7 @@ description: 为了帮助用户获得更好的网络体验，我们精选了一�
 <div class="pricing-card">
   <div class="pricing-title">扬帆云</div>
   <div class="pricing-price">¥15.99 <span class="pricing-unit">每月</span></div>
-  <a href="https://yftg1.net/register?code=0WEO6ulk" target="_blank" class="buy-button">
+  <a href="https://yftg1.net/register?code=0WEO6ulk" target="_blank" rel="nofollow" class="buy-button">
     <i class="icon-cart"></i> 立即订阅
   </a>
     
@@ -414,7 +414,7 @@ description: 为了帮助用户获得更好的网络体验，我们精选了一�
 <div class="pricing-card">
   <div class="pricing-title">三番云</div>
   <div class="pricing-price">¥15.88 <span class="pricing-unit">每月</span></div>
-  <a href="https://3fan.3f66.net/?code=NuDD6seh" target="_blank" class="buy-button">
+  <a href="https://3fan.3f66.net/?code=NuDD6seh" target="_blank" rel="nofollow" class="buy-button">
     <i class="icon-cart"></i> 立即订阅
   </a>
     
@@ -442,7 +442,7 @@ description: 为了帮助用户获得更好的网络体验，我们精选了一�
 <div class="pricing-card">
   <div class="pricing-title">Taishan</div>
   <div class="pricing-price">¥10.00 <span class="pricing-unit">每月</span></div>
-  <a href="https://jp.taishan.pro/register?code=45O5EGR9" target="_blank" class="buy-button">
+  <a href="https://jp.taishan.pro/register?code=45O5EGR9" target="_blank" rel="nofollow" class="buy-button">
     <i class="icon-cart"></i> 立即订阅
   </a>
     
@@ -466,7 +466,7 @@ description: 为了帮助用户获得更好的网络体验，我们精选了一�
 <div class="pricing-card">
   <div class="pricing-title">FlyBit</div>
   <div class="pricing-price">¥12.00 <span class="pricing-unit">每月</span></div>
-  <a href="https://flybit.best/#/register?code=o7YHNoqs" target="_blank" class="buy-button">
+  <a href="https://flybit.best/#/register?code=o7YHNoqs" target="_blank" rel="nofollow" class="buy-button">
     <i class="icon-cart"></i> 立即订阅
   </a>
     
@@ -490,7 +490,7 @@ description: 为了帮助用户获得更好的网络体验，我们精选了一�
 <div class="pricing-card">
   <div class="pricing-title">白羊星</div>
   <div class="pricing-price">¥12.00 <span class="pricing-unit">每月</span></div>
-  <a href="https://baiyangxing.com/#/register?code=I6IGk5n6" target="_blank" class="buy-button">
+  <a href="https://baiyangxing.com/#/register?code=I6IGk5n6" target="_blank" rel="nofollow" class="buy-button">
     <i class="icon-cart"></i> 立即订阅
   </a>
     
@@ -515,7 +515,7 @@ description: 为了帮助用户获得更好的网络体验，我们精选了一�
 <div class="pricing-card">
   <div class="pricing-title">银河云</div>
   <div class="pricing-price">¥8.00 <span class="pricing-unit">每月/<b>年付98元</b></span></div>
-  <a href="https://haibing822.galaxyvipaff01.cc/register?aff=la8LavLb" target="_blank" class="buy-button">
+  <a href="https://haibing822.galaxyvipaff01.cc/register?aff=la8LavLb" target="_blank" rel="nofollow" class="buy-button">
     <i class="icon-cart"></i> 立即订阅
   </a>
     
@@ -541,7 +541,7 @@ description: 为了帮助用户获得更好的网络体验，我们精选了一�
 <div class="pricing-card">
   <div class="pricing-title">肥猫云</div>
   <div class="pricing-price">¥72.00 <span class="pricing-unit">每年</span></div>
-  <a href="https://fchb1188.fcvipaff.cc/register?aff=X1vZd2wf" target="_blank" class="buy-button">
+  <a href="https://fchb1188.fcvipaff.cc/register?aff=X1vZd2wf" target="_blank" rel="nofollow" class="buy-button">
     <i class="icon-cart"></i> 立即订阅
   </a>
     
@@ -564,7 +564,7 @@ description: 为了帮助用户获得更好的网络体验，我们精选了一�
 <div class="pricing-card">
   <div class="pricing-title">青云梯</div>
   <div class="pricing-price">¥96.00 <span class="pricing-unit">每年</span></div>
-  <a href="https://haibing822.qytvipaff.cc/register?aff=dTvJ05CM" target="_blank" class="buy-button">
+  <a href="https://haibing822.qytvipaff.cc/register?aff=dTvJ05CM" target="_blank" rel="nofollow" class="buy-button">
     <i class="icon-cart"></i> 立即订阅
   </a>
     
@@ -594,7 +594,7 @@ description: 为了帮助用户获得更好的网络体验，我们精选了一�
 <div class="pricing-card">
   <div class="pricing-title">Jimmm</div>
   <div class="pricing-price">¥14.00 <span class="pricing-unit">每月</span></div>
-  <a href="https://jimmm.life/register?code=BgQ1LKH5" target="_blank" class="buy-button">
+  <a href="https://jimmm.life/register?code=BgQ1LKH5" target="_blank" rel="nofollow" class="buy-button">
     <i class="icon-cart"></i> 立即订阅
   </a>
     
@@ -621,7 +621,7 @@ description: 为了帮助用户获得更好的网络体验，我们精选了一�
 <div class="pricing-card">
   <div class="pricing-title">网际快车</div>
   <div class="pricing-price">¥6.80 <span class="pricing-unit" style="color: red;">不限时</span></div>
-  <a href="https://wjkc66.vip?c=APIXRJ" target="_blank" class="buy-button">
+  <a href="https://wjkc66.vip?c=APIXRJ" target="_blank" rel="nofollow" class="buy-button">
     <i class="icon-cart"></i> 立即订阅
   </a>
     
@@ -643,7 +643,7 @@ description: 为了帮助用户获得更好的网络体验，我们精选了一�
  <div class="pricing-card">
   <div class="pricing-title">魔戒</div>
   <div class="pricing-price">¥14.90 <span class="pricing-unit" style="color: red;">不限时</span></div>
-  <a href="https://mojie.app/#/register?code=sSdtPtLo" target="_blank" class="buy-button">
+  <a href="https://mojie.app/#/register?code=sSdtPtLo" target="_blank" rel="nofollow" class="buy-button">
     <i class="icon-cart"></i> 立即订阅
   </a>
     
@@ -665,7 +665,7 @@ description: 为了帮助用户获得更好的网络体验，我们精选了一�
  <div class="pricing-card">
   <div class="pricing-title">良心云</div>
   <div class="pricing-price">¥2.00 <span class="pricing-unit" style="color: red;">每月</span></div>
-  <a href="https://a.suola.link/liangxinyun" target="_blank" class="buy-button">
+  <a href="https://a.suola.link/liangxinyun" target="_blank" rel="nofollow" class="buy-button">
     <i class="icon-cart"></i> 立即订阅
   </a>
     
