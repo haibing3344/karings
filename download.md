@@ -26,7 +26,7 @@ description: 下载Karing最新版本，支持Windows、macOS、iOS和Android等
 - [GitHub Release page](https://github.com/KaringX/karing/releases/latest)
   - Android 建议下载安装包: 文件名规则 karing_xxx_android_arm.apk (xxx为版本号)
 - [APKPure 应用市场](https://apkpure.com/p/com.nebula.karing)
-- [android 备用下载链接](https://wwic.lanzouo.com/b0zjy5n8f) 密码:33mf
+- [android 备用下载链接](http://wwauo.appboz.com/b0zjy5n8f) 密码:33mf
 - <font color="red">小米/MIUI用户</font>: 如遇无法安装的情况, 先打开`飞行模式(断网)` 和 `关闭安全守护-增强防护` 再安装.
 - 鸿蒙系统可参考: [HarmonyOS安装karing](/harmonyos.md)
 
@@ -34,7 +34,7 @@ description: 下载Karing最新版本，支持Windows、macOS、iOS和Android等
 - [GitHub Releases](https://github.com/KaringX/karing/releases/latest)
   - Windows 建议下载安装包:文件名规则 karing_xxx_windows_x64.exe (xxx为版本号)
     - 下载后运行安装(如果遇到defender拦截,请点击'显示详细信息' - '仍要运行' 即可安装)
-- [win_x64 备用下载链接](https://wwic.lanzouo.com/b0zjy5n8f) 密码:33mf
+- [win_x64 备用下载链接](http://wwauo.appboz.com/b0zjy5n8f) 密码:33mf
 
 ## 新版本发布通知
 - 新发布版本, 同时会在 [电报群](https://t.me/KaringApp) 通知。
