@@ -7,7 +7,7 @@ description:  Karing是新一代网络代理工具，界面简洁清晰，功能
 head:
   - - meta
     - name: keywords
-      content: Karing, 代理, 网络, 工具
+      content: Karing, Karing官网, Karing下载, Karing VPN, Clash, Clash Meta, V2ray, Sing-box, 代理客户端, 机场订阅, 节点订阅, 跨平台代理
 
 hero:
   name: "Karing"
